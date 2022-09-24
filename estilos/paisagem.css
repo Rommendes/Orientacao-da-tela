@@ -1,0 +1,7 @@
+@charset "UTF-8";
+/*modo paisagem (lendscape)*/
+body{
+    background-image: url(../IMG/cev-landscape.jpg);
+    background-position: left bottom;
+    
+}
