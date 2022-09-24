@@ -1,7 +1,8 @@
 @charset "UTF-8";
 /*modo paisagem (lendscape)*/
 body{
-    background-image: url(../IMG/img.paisagem.png);
-    background-position: left bottom;
+    background-image: url(../IMG/img.paisagem.png) no-repeat;
+    background-position: left bottom ;
     
 }
+
